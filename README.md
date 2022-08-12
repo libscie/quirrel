@@ -1,6 +1,6 @@
 # Quirrel on Railway
 
-To deploy your own Quirrel server to Railway, click this button:
+To deploy your own Quirrel server to Railway, click this:
 
 [![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/new/template/quirrel)
 
